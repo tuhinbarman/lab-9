@@ -1,0 +1,21 @@
+mat-card{
+    text-align: center;
+}
+
+
+.example-icon {
+    padding: 90%;
+  }
+
+div.first{
+    padding-top: 2%;
+    text-align: center;
+}
+div.second{
+    padding-top: 2%;
+    text-align: center;
+}
+
+button{
+    margin: 10px;
+}
